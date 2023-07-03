@@ -1,4 +1,4 @@
----
+--NORRIS EMILY BANDA 
 title: Différences entre un utilisateur et une organisation
 slug: differences-utilisateur-organisation
 ---
